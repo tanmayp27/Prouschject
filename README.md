@@ -1,2 +1,2 @@
-# Unity-Project-Template
- A template for a new Unity project with a main menu, settings, and credits.
+# Prouschject
+This project uses a template! Get it at https://github.com/Vivek-Raman/Unity-Project-Template
